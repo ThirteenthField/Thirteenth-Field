@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thirteenth Field</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="overlay"></div>
+  <header>
+    <h1>Thirteenth Field</h1>
+    <p class="subtitle">"The Hidden Power Lies Within the Thirteenth"</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p>In the shadows of silence, thirteen rise.  
+      Bound by oath, unseen by light — yet felt by every truth seeker.  
+      Welcome to the Field where mystery meets destiny.</p>
+    </section>
+
+    <a href="#" class="btn">Enter the Field</a>
+  </main>
+
+  <footer>
+    <p>© 2025 Thirteenth Field | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
